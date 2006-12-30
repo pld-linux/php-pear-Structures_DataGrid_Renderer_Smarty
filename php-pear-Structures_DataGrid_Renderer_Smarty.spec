@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - renderer driver using Smarty
 Summary(pl):	%{_pearname} - sterowink renderera korzystaj±cy ze Smarty
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.3
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	cdf7fa9a50e196401329cf7110af1988
+# Source0-md5:	1be63df00cf22b573725bf4cfaf75cef
 URL:		http://pear.php.net/package/Structures_DataGrid_Renderer_Smarty/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
