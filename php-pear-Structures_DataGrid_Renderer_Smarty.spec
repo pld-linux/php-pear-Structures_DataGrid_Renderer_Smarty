@@ -5,7 +5,7 @@
 %define		_pearname	Structures_DataGrid_Renderer_Smarty
 
 Summary:	%{_pearname} - renderer driver using Smarty
-Summary(pl):	%{_pearname} - sterowink renderera korzystaj±cy ze Smarty
+Summary(pl.UTF-8):   %{_pearname} - sterowink renderera korzystajÄ…cy ze Smarty
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
 Release:	1
@@ -29,9 +29,9 @@ adds a couple of variables to a Smarty instance.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet dostarcza sterownik renderera do Structures_DataGrid.
-korzystaj±cy ze Smarty. Dodaje on kilka zmiennych do instancji
+korzystajÄ…cy ze Smarty. Dodaje on kilka zmiennych do instancji
 Smarty'ego.
 
 Ta klasa ma w PEAR status: %{_status}.
