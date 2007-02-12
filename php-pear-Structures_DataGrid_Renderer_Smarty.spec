@@ -5,7 +5,7 @@
 %define		_pearname	Structures_DataGrid_Renderer_Smarty
 
 Summary:	%{_pearname} - renderer driver using Smarty
-Summary(pl.UTF-8):   %{_pearname} - sterowink renderera korzystający ze Smarty
+Summary(pl.UTF-8):	%{_pearname} - sterowink renderera korzystający ze Smarty
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
 Release:	1
